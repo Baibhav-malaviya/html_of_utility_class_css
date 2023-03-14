@@ -415,6 +415,9 @@ color: var(--clr-black);
 .border_double{
     border-style: double;
 }
+.border_1dashed{
+    border-style: dashed;
+}
 
 
 
