@@ -1,0 +1,19 @@
+:root{
+    
+    --clr-primary:black; /* this is the brand color set before the starting the style*/
+    --clr-secondary:black; /* this is the brand color set before the starting the style*/
+    --clr-success:rgba(40, 167, 69, 1);
+    --clr-warning:rgba(255, 193, 7, 1);
+    --clr-danger:rgba(220, 53, 69, 1);
+    --clr-light:rgba(248, 249, 250, 1);
+    --clr-dark:rgba(52, 58, 64, 1);
+    --clr-white:rgba(255, 255, 255, 1);
+    --clr-black:rgba(0, 0, 0, 1);
+
+}
+
+
+div{
+    width: 60%;
+    height: 40vh;
+}
